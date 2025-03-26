@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8V464F8LA4.com.kem.kemcryptoapp",
+        "paths": [
+          "/send-request/*"
+        ]
+      }
+    ]
+  }
+}
