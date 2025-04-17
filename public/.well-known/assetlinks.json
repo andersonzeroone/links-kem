@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kemfinity.kemapp",
+      "sha256_cert_fingerprints": [
+        "98:5C:39:AE:C5:B4:08:35:77:74:C7:A9:2F:B6:7C:09:D8:60:DE:FD:33:F8:89:07:68:38:8C:BD:F0:20:BB:0D",
+        "15:5D:AC:BD:E3:C1:78:97:98:10:D6:BF:FF:85:C2:DA:3F:E1:0B:13:3A:49:56:F1:9E:03:3F:A2:0F:28:C4:71"
+      ]
+    }
+  }
+]

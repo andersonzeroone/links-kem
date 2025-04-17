@@ -7,6 +7,12 @@
         "paths": [
           "/send-request/*"
         ]
+      },
+      {
+        "appID": "5GA7C2W98D.com.kemfinity.kemapp",
+        "paths": [
+          "/send-request/*"
+        ]
       }
     ]
   }
